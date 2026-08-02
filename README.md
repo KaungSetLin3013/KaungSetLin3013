@@ -65,19 +65,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaungSetLin3013&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaungSetLin3013&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="42%"/>
+  <img src="./images/metrics.svg" alt="GitHub Metrics" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KaungSetLin3013&theme=dark&hide_border=false" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KaungSetLin3013">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaungSetLin3013&theme=react-dark&hide_border=true" alt="Activity Graph" width="90%"/>
-  </a>
-</p>
+<sub align="center">Auto-generated every 6 hours via GitHub Actions — no third-party server dependency.</sub>
 
 ---
 
