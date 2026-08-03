@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kaungsetlin3013.github.io/portfolio/">
+  <a href="https://kaungsetlinn.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00f5a0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
